@@ -1,0 +1,14 @@
+{
+  "name": "online-learning-platform",
+  "version": "1.0.0",
+  "description": "An online learning platform with lessons, quizzes, and progress tracking.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
